@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # ResQBlood
-ResqBlood is a Flutter-based blood donation and request management app that connects donors and recipients, making it easier to donate, request, and track blood availability in real-time.
+ResqBlood is a Flutter-based blood donation and request management app that connects donors and recipients, making it easier to donate, request, and track blood availability in real-time..
 =======
 # my_app
 
