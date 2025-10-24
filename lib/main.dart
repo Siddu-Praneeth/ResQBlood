@@ -1,3 +1,4 @@
+// Main page 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -6,7 +7,6 @@ import 'firebase_options.dart';
 import 'landing_page.dart';
 import 'login_page.dart';
 import 'signup_page.dart';
-// ignore: undefined_hidden_name
 import 'home_page.dart' hide RequestPage;
 import 'donate_page.dart';    
 import 'request_page.dart';   
